@@ -1,4 +1,4 @@
-### Hi there I am the Doctor Vee 👋
+### 🤔 Okay ... So, I am the Doctor Vee 😎
 
 <!--
 **Doctor-Vee/Doctor-Vee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-You can find me on [Twitter here](https://twitter.com/DoctorVee)
+You can find me on [Twitter here](https://twitter.com/DoctorVee). 
+
 You can find me on [Instagram here](https://www.instagram.com/mydoctorvee)
 
