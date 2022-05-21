@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Wanna know more about me? 🤔   
 You can check   
 👇👇👇
-- [Twitter](https://twitter.com/DoctorVee). 
-- [Instagram](https://www.instagram.com/mydoctorvee)
-- [LinkedIn](https://www.linkedin.com/in/victor-chinewubeze/)
+- [Twitter](https://twitter.com/DoctorVee)  
+- [Instagram](https://www.instagram.com/mydoctorvee)  
+- [LinkedIn](https://www.linkedin.com/in/victor-chinewubeze/)  
 
