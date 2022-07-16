@@ -1,10 +1,10 @@
 #  Okay ... So, I am the Doctor Vee 😎
 
-Software Engineer
-Mathematician
-Keyboardist
-Christian
-Leader
+Software Engineer  
+Mathematician  
+Keyboardist  
+Christian  
+Leader  
 
 ## Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
